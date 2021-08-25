@@ -1,0 +1,1004 @@
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - Welcome to shopping app
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - -------------------------------
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 12:35:03 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - Welcome to shopping app
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - -------------------------------
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:31:49 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:31:56 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:31:56 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:31:56 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:31:56 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:31:56 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:31:56 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:31:56 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:32:06 INFO  com.shopping.Main  - Enter customer details for creation :
+
+[main] 2021-08-25 13:32:06 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:32:18 INFO  com.shopping.Main  - 2.) Enter first name
+[main] 2021-08-25 13:32:21 WARN  com.shopping.Main  - Invalid first name: j
+[main] 2021-08-25 13:32:21 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:32:21 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:32:21 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:32:21 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:32:21 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:32:21 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:32:33 INFO  com.shopping.Main  - Enter customer details for creation :
+
+[main] 2021-08-25 13:32:33 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:32:40 INFO  com.shopping.Main  - 2.) Enter first name
+[main] 2021-08-25 13:32:43 INFO  com.shopping.Main  - 3.) Enter last name
+[main] 2021-08-25 13:32:45 INFO  com.shopping.Main  - 4.) Enter password
+[main] 2021-08-25 13:33:00 WARN  com.shopping.Main  - Invalid password: Jahnavi@1
+[main] 2021-08-25 13:33:00 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:33:00 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:33:00 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:33:00 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:33:00 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:33:00 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:33:05 INFO  com.shopping.Main  - Enter customer details for creation :
+
+[main] 2021-08-25 13:33:05 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:33:13 INFO  com.shopping.Main  - 2.) Enter first name
+[main] 2021-08-25 13:33:14 INFO  com.shopping.Main  - 3.) Enter last name
+[main] 2021-08-25 13:33:15 INFO  com.shopping.Main  - 4.) Enter password
+[main] 2021-08-25 13:34:10 WARN  com.shopping.Main  - Invalid password: jahnaviHARSha12@
+[main] 2021-08-25 13:34:10 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:34:10 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:34:10 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:34:10 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:34:10 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:34:10 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:35:22 INFO  com.shopping.Main  - Enter customer details for creation :
+
+[main] 2021-08-25 13:35:22 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:35:29 INFO  com.shopping.Main  - 2.) Enter first name
+[main] 2021-08-25 13:35:31 INFO  com.shopping.Main  - 3.) Enter last name
+[main] 2021-08-25 13:35:32 INFO  com.shopping.Main  - 4.) Enter password
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - 
+Customer created Successfully
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:36:08 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:36:24 INFO  com.shopping.Main  - 
+Enter customer login details: 
+[main] 2021-08-25 13:36:24 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:36:32 INFO  com.shopping.Main  - 2.) Enter password
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - 
+Customer logged in successfully
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - Hello jf dlkfj
+What would you like to do today?
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - 
+1.) Search products
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - 2.) View your orders
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - 3.) View Cart total
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - 4.) Logout
+[main] 2021-08-25 13:36:42 INFO  com.shopping.Main  - 
+Please enter your choice
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:36:48 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 
+All the available products are listed below
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:36:58 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:37:09 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:37:16 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - Welcome to shopping app
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - -------------------------------
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:40:30 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:40:42 INFO  com.shopping.Main  - 
+Enter customer login details: 
+[main] 2021-08-25 13:40:42 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:40:53 INFO  com.shopping.Main  - 2.) Enter password
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - 
+Customer logged in successfully
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - Hello jf dlkfj
+What would you like to do today?
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - 
+1.) Search products
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - 2.) View your orders
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - 3.) View Cart total
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - 4.) Logout
+[main] 2021-08-25 13:41:30 INFO  com.shopping.Main  - 
+Please enter your choice
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:41:47 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:41:51 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - Welcome to shopping app
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - -------------------------------
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:55:45 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:55:50 INFO  com.shopping.Main  - Enter associate login details: 
+[main] 2021-08-25 13:55:50 INFO  com.shopping.Main  - 1.) Enter username
+[main] 2021-08-25 13:55:54 INFO  com.shopping.Main  - 2.) Enter password
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - 
+Associate login successful!
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - Welcome
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - What would you want to do today admin?
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - 1.) Search Products
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - 2.) Add new Product
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - 3.) Search Customers
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - 4.) View all orders in the app
+[main] 2021-08-25 13:55:57 INFO  com.shopping.Main  - 5.) Logout
+[main] 2021-08-25 13:56:01 INFO  com.shopping.Main  - 
+Enter the Product details to be added to the app: 
+[main] 2021-08-25 13:56:01 INFO  com.shopping.Main  - 1.) Enter Product ID:
+[main] 2021-08-25 13:56:08 INFO  com.shopping.Main  - 2.) Enter Product Name
+[main] 2021-08-25 13:56:12 INFO  com.shopping.Main  - 3.) Enter Product Price
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - 
+Product Created Successfully with the details: 
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - Product Details: [ID=1, Name=tv, Price=35000]
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - What would you want to do today admin?
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - 1.) Search Products
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - 2.) Add new Product
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - 3.) Search Customers
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - 4.) View all orders in the app
+[main] 2021-08-25 13:56:19 INFO  com.shopping.Main  - 5.) Logout
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - 
+Welcome to Customer Search
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - 
+1.) Search Customer by email
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - 2.) Search Customer(s) by First Name
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - 3.) Search Customer(s) by Last Name
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - 4.) Show All Customers
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - 5.) Return back to the Previous Menu
+[main] 2021-08-25 13:56:30 INFO  com.shopping.Main  - Please Enter your choice: 
+[main] 2021-08-25 13:56:37 INFO  com.shopping.Main  - 
+1.) Enter Customer's email: 
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 
+Printing Customer details: 
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 
+Customer's email :janu@gmail.com, Customer's First Name: jf, Customer's Last Name: dlkfj
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 
+1.) Search Customer by email
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 2.) Search Customer(s) by First Name
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 3.) Search Customer(s) by Last Name
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 4.) Show All Customers
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - 5.) Return back to the Previous Menu
+[main] 2021-08-25 13:56:47 INFO  com.shopping.Main  - Please Enter your choice: 
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - 
+Returning back to the Previous Menu...
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - What would you want to do today admin?
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - 1.) Search Products
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - 2.) Add new Product
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - 3.) Search Customers
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - 4.) View all orders in the app
+[main] 2021-08-25 13:56:53 INFO  com.shopping.Main  - 5.) Logout
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - 
+Okay admin, Logging you out...
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:02 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:07 INFO  com.shopping.Main  - 
+Enter customer login details: 
+[main] 2021-08-25 13:57:07 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:57:15 INFO  com.shopping.Main  - 2.) Enter password
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid password
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Enter associate login details: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Enter username
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid username : Enter associate login details: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Enter customer details for creation :
+
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid email : 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Enter associate login details: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Enter username
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid username : 2.) Enter Product Name
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - 
+Invalid choice! The choice should only be a number between 1-4. Please try again.
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+Enter customer login details: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid email : 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Enter associate login details: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Enter username
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid username : 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - 
+Invalid choice! The choice should only be a number between 1-4. Please try again.
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - 
+Invalid choice! The choice should only be a number between 1-4. Please try again.
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+Enter customer login details: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Invalid email : 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:27 WARN  com.shopping.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - Please login: 
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 1.) Admin Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 2.) Customer Registration
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 3.) Customer Login
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 4.) Close App
+[main] 2021-08-25 13:57:27 INFO  com.shopping.Main  - 
+ Please enter your choice: 
+[main] 2021-08-25 13:57:38 INFO  com.shopping.Main  - 
+Enter customer login details: 
+[main] 2021-08-25 13:57:38 INFO  com.shopping.Main  - 1.) Enter email
+[main] 2021-08-25 13:57:55 INFO  com.shopping.Main  - 2.) Enter password
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - 
+Customer logged in successfully
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - Hello jf dlkfj
+What would you like to do today?
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - 
+1.) Search products
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - 2.) View your orders
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - 3.) View Cart total
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - 4.) Logout
+[main] 2021-08-25 13:57:59 INFO  com.shopping.Main  - 
+Please enter your choice
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:58:04 INFO  com.shopping.Main  - Please enter your choice
+[main] 2021-08-25 13:58:11 INFO  com.shopping.Main  - 
+Enter product id
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 
+Printing product details with ID : 1
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - Product Details: [ID=1, Name=tv, Price=35000]
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 
+Welcome to Product Search
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - How would you want to search the products?
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 1.) By name
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 2.) By Id
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 3.) Show all products
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 4.) Add product to cart
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - 5.) Return back to the previous menu
+[main] 2021-08-25 13:58:13 INFO  com.shopping.Main  - Please enter your choice
